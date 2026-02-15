@@ -1,0 +1,1 @@
+/home/angelo/Repositories/Portfolio/Projects/Programming\ exercises/Rust\ Programming/exercises/target/debug/exercises: /home/angelo/Repositories/Portfolio/Projects/Programming\ exercises/Rust\ Programming/exercises/src/main.rs
